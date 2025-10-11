@@ -1,0 +1,25 @@
+body{
+  font-family: sans-serif;
+  background-color:#9185AB;
+  color: #D5D5E2;
+  font-size: 20px;
+  margin: 20px;
+}
+
+a{
+    color:#D5D5E2;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+}
+
+p{
+    background-color:#696A96 ;
+    padding: 15px;
+    border-radius: 30px;
+    margin: 20px 0px;
+}
